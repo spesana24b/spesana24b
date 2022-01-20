@@ -1,3 +1,3 @@
-- 👋 Hi, I’m [@spesana](https://github.com/spesana)
-- 💞️ I’m looking to collaborate on [github](https://github.com/)
-- 📫 How to reach me?, [click here](mailto:akuyetta2@gmail.com) 
+👋 Hi, Everyone [@spesana](https://github.com/api-spesana)
+
+Ini Tempat, API Spesana / [SMPN 1 Nanggulan](https://www.smpn1nanggulan.sch.id/) API Siswa Siswi 7B
