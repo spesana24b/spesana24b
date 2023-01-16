@@ -1,0 +1,29 @@
+[
+  {
+    "mapel": "PPKn",
+    "mapel_id": "05",
+    "informasi_md": "Pilih 2 Gambar dari 4 lalu berikan infromasi tentang pahlawan tersebut...",
+    "note_url": "https://cdn-mzea.vercel.app/tugas/16012023.html",
+    "informasi": {
+      "immediately": true,
+      "from": "Tri Mulatsih S.Pd"
+    },
+    "_timestamp": {
+      "__start": "16012023/11-24",
+      "__end": "24012033/null"
+    }
+  },
+  {
+    "mapel": "B. Jawa",
+    "mapel_id": "35",
+    "informasi_md": "{{nihil}}",
+    "informasi": {
+      "immediately": true,
+      "from": "Suryanti S.Pd"
+    },
+    "_timestamp": {
+      "__start": "09012023/13-21",
+      "__end": "17012033/12-55"
+    }
+  }
+]
